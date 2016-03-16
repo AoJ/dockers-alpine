@@ -1,3 +1,33 @@
 [submodule "base"]
 	path = base
 	url = git@github.com:AoJ/docker-base.git
+[submodule "influxdb"]
+	path = influxdb
+	url = git@github.com:AoJ/docker-influxdb.git
+[submodule "php7"]
+	path = php7
+	url = git@github.com:AoJ/docker-php7.git
+[submodule "php5"]
+	path = php5
+	url = git@github.com:AoJ/docker-php5.git
+[submodule "varnish"]
+	path = varnish
+	url = git@github.com:AoJ/docker-varnish.git
+[submodule "php7-apache"]
+	path = php7-apache
+	url = git@github.com:AoJ/docker-php7-apache.git
+[submodule "php5-apache"]
+	path = php5-apache
+	url = git@github.com:AoJ/docker-php5-apache.git
+[submodule "nginx"]
+	path = nginx
+	url = git@github.com:AoJ/docker-nginx.git
+[submodule "collectd"]
+	path = collectd
+	url = git@github.com:AoJ/docker-collectd.git
+[submodule "mysql"]
+	path = mysql
+	url = git@github.com:AoJ/docker-mysql.git
+[submodule "grafana"]
+	path = grafana
+	url = git@github.com:AoJ/docker-grafana.git
